@@ -1,4 +1,5 @@
-The first project: DAG-ETL_creation_with_ApacheAirflow&Kafka
+The first project: DAG-ETL_creation_with_ApacheAirflow & Kafka. 
+
 Extract, Transform and Load (ETL) operations are of extreme importance in the role of a Data engineer. A data engineer extracts data from multiple sources and different file formats, transforms the extracted data to predefined settings and then loads the data to a database for further processing. 
 
 Generally, tasks performed was to achieve the result include extracting data from different file formats, collecting data through APIs and web scraping and finally transforming the collected data into a ready-to-load format. to extract, transform and load real-world data about the world's largest banks into a database for further processing and querying.
@@ -7,7 +8,8 @@ It is to create a code that can be used to compile the list of the top 10 larges
 Finally it is to create an automated system to generate this information so that the same can be executed in every financial quarter to prepare a report.
 
 
-The second project: ETL_project_with_python.txt
+The second project: ETL_project_with_python
+
 This project is “Creating ETL Data Pipelines with BashOperator using Apache Airflow” and “Creating Streaming Data Pipelines using Kafka”. 
 To achieve the result.
 
